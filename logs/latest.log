@@ -1,0 +1,161 @@
+[23:22:16] [main/INFO]: ModLauncher running: args [--username, Vyzon_775, --version, forge-43.3.2, --gameDir, C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19, --assetsDir, C:\Users\igorh\Documents\Curseforge\Install\assets, --assetIndex, 1.19, --uuid, 50b7cbd0d5d14d00bb11e17a22986b20, --accessToken, ????????, --clientId, MzcxMTEwNDMtODUzOC00ZTQ3LTg0YWEtM2Q1YWI1MTIzNzhh, --xuid, 2535436507326732, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 43.3.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[23:22:16] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.8 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[23:22:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/igorh/Documents/Curseforge/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2397!/ Service=ModLauncher Env=CLIENT
+[23:22:21] [main/INFO]: Found mod file Ad-Astra-Giselle-Addon-forge-1.19.2-1.18.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file ad_astra-forge-1.19.2-1.12.7.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file AE2WTLib-12.9.7.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file AI-Improvements-1.19.2-0.5.2.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file AkashicTome-1.6-23.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file almostunified-forge-1.19.2-0.7.0.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file appleskin-forge-mc1.19-2.4.2.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Applied-Botanics-forge-1.4.5.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Applied-Mekanistics-1.3.5.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file appliedenergistics2-forge-12.9.8.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file architectury-6.5.85-forge.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file ars_nouveau-1.19.2-3.21.4.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file artifacts-1.19.2-5.0.4.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file AutoRegLib-1.8.2-55.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file balm-forge-1.19.2-4.6.0.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file BetterAdvancements-1.19.2-0.2.2.142.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file BiomesOPlenty-1.19.2-17.1.1.162.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Bookshelf-Forge-1.19.2-16.3.20.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Botania-1.19.2-440-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file botarium-forge-1.19.2-1.8.2.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file buildinggadgets-3.16.2-build.22+mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file charginggadgets-1.9.0.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file cloth-config-8.3.103-forge.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Clumps-forge-1.19.2-9.0.0+14.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file CodeChickenLib-1.19.2-4.3.1.481-universal.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file cofh_core-1.19.2-10.3.1.48.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file configured-2.1.1-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Controlling-forge-1.19.2-10.0+7.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file create-1.19.2-0.5.1.e.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file createaddition-1.19.2-1.1.1.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file CTM-1.19.2-1.1.6+8.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file curios-forge-1.19.2-5.1.4.1.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file DarkUtilities-Forge-1.19.2-13.1.9.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file dummmmmmy-1.19.2-1.7.1.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file elevatorid-1.19.2-1.8.9.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file EnderStorage-1.19.2-2.10.1.181-universal.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file everycomp-1.19.2-2.5.11.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file FarmersDelight-1.19.2-1.2.3.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file FastLeafDecay-30.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file FastSuite-1.19.2-4.1.1.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file ferritecore-5.0.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file forcecraft-1.19.2-3.3.1.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file FpsReducer2-forge-1.19.2-2.1.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file FramedBlocks-6.8.6.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file ftb-chunks-forge-1902.4.2-build.302.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file ftb-library-forge-1902.4.1-build.236.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file ftb-teams-forge-1902.2.14-build.123.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file functionalstorage-1.19.2-1.1.9.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file gravestone-1.19.2-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file ImmersiveEngineering-1.19.2-9.2.3-167.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file industrial-foregoing-1.19.2-3.3.2.3-5.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file inventorysorter-1.19.2-21.0.4.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file ironchest-1.19.2-14.2.7.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Jade-1.19.1-forge-8.9.1.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file JadeAddons-1.19.2-forge-3.5.0.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file jei-1.19.2-forge-11.6.0.1018.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file JustEnoughResources-1.19.2-1.2.2.236.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file kubejs-forge-1902.6.2-build.33.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file kubejs-thermal-1902.1.9-build.11.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file lazydfu-1.19-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Mekanism-1.19.2-10.3.9.13.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file MekanismAdditions-1.19.2-10.3.9.13.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file MekanismGenerators-1.19.2-10.3.9.13.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file MekanismTools-1.19.2-10.3.9.13.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file mininggadgets-1.13.1.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file modernfix-forge-5.8.1+mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file moonlight-1.19.2-2.2.46-forge.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Morph-o-Tool-1.6-34.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file MouseTweaks-forge-mc1.19-2.23.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file NaturesCompass-1.19.2-1.10.0-forge.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Patchouli-1.19.2-77.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file PigPen-Forge-1.19.2-11.1.2.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Placebo-1.19.2-7.3.3.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file pneumaticcraft-repressurized-1.19.2-4.3.9-39.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Powah-4.0.11.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Quark-3.4-418.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file redstone_arsenal-1.19.2-7.3.0.20.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file resourcefulconfig-forge-1.19.2-1.0.20.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file resourcefullib-forge-1.19.2-1.1.24.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file rhino-forge-1902.2.2-build.280.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file rubidium-mc1.19.2-0.6.2c.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file Runelic-Forge-1.19.2-14.1.4.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file sophisticatedbackpacks-1.19.2-3.18.63.934.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file sophisticatedcore-1.19.2-0.5.98.459.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file spark-1.10.37-forge.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file starlight-1.1.1+forge.cf5b10b.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file supplementaries-1.19.2-2.3.24.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file systeams-1.19.2-1.5.0.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file TerraBlender-forge-1.19.2-2.0.1.136.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file thermal_cultivation-1.19.2-10.3.0.19.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file thermal_dynamics-1.19.2-10.3.0.20.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file thermal_expansion-1.19.2-10.3.1.25.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file thermal_foundation-1.19.2-10.3.1.57.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file thermal_innovation-1.19.2-10.3.0.20.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file thermal_integration-1.19.2-10.3.0.19.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file thermal_locomotion-1.19.2-10.3.0.16.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file titanium-1.19.2-3.7.4-28.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file twilightforest-1.19.2-4.2.1518-universal.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file valhelsia_core-forge-1.19.2-0.5.0.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file valhelsia_furniture-forge-1.19.2-1.1.1.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file valhelsia_structures-forge-1.19.2-1.0.4.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/INFO]: Found mod file waystones-forge-1.19.2-11.4.1.jar of type MOD with provider {mods folder locator at C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19\mods}
+[23:22:21] [main/WARN]: Mod file C:\Users\igorh\Documents\Curseforge\Install\libraries\net\minecraftforge\fmlcore\1.19.2-43.3.2\fmlcore-1.19.2-43.3.2.jar is missing mods.toml file
+[23:22:21] [main/WARN]: Mod file C:\Users\igorh\Documents\Curseforge\Install\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.3.2\javafmllanguage-1.19.2-43.3.2.jar is missing mods.toml file
+[23:22:21] [main/WARN]: Mod file C:\Users\igorh\Documents\Curseforge\Install\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.3.2\lowcodelanguage-1.19.2-43.3.2.jar is missing mods.toml file
+[23:22:21] [main/WARN]: Mod file C:\Users\igorh\Documents\Curseforge\Install\libraries\net\minecraftforge\mclanguage\1.19.2-43.3.2\mclanguage-1.19.2-43.3.2.jar is missing mods.toml file
+[23:22:21] [main/INFO]: Found mod file fmlcore-1.19.2-43.3.2.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@13cd7ea5
+[23:22:21] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.3.2.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@13cd7ea5
+[23:22:21] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.3.2.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@13cd7ea5
+[23:22:21] [main/INFO]: Found mod file mclanguage-1.19.2-43.3.2.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@13cd7ea5
+[23:22:21] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@13cd7ea5
+[23:22:21] [main/INFO]: Found mod file forge-1.19.2-43.3.2-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@13cd7ea5
+[23:22:21] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[23:22:21] [main/INFO]: Found 7 dependencies adding them to mods collection
+[23:22:21] [main/INFO]: Found mod file MixinExtras-0.2.0-rc.4.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@151db587
+[23:22:21] [main/INFO]: Found mod file mixinextras-forge-0.2.0-rc.4.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@151db587
+[23:22:21] [main/INFO]: Found mod file caffeine-3.1.8.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@151db587
+[23:22:21] [main/INFO]: Found mod file flywheel-forge-1.19.2-0.6.10-20.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@151db587
+[23:22:21] [main/INFO]: Found mod file thermal_core-1.19.2-10.3.0.9.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@151db587
+[23:22:21] [main/INFO]: Found mod file expandability-forge-7.0.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@151db587
+[23:22:21] [main/INFO]: Found mod file Registrate-MC1.19-1.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@151db587
+[23:22:23] [main/INFO]: Compatibility level set to JAVA_17
+[23:22:24] [main/INFO]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[23:22:24] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-43.3.2, --gameDir, C:\Users\igorh\Documents\Curseforge\Instances\V Kit 1.19, --assetsDir, C:\Users\igorh\Documents\Curseforge\Install\assets, --uuid, 50b7cbd0d5d14d00bb11e17a22986b20, --username, Vyzon_775, --assetIndex, 1.19, --accessToken, ????????, --clientId, MzcxMTEwNDMtODUzOC00ZTQ3LTg0YWEtM2Q1YWI1MTIzNzhh, --xuid, 2535436507326732, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[23:22:24] [main/INFO]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[23:22:24] [main/INFO]: Loaded configuration file for ModernFix 5.8.1+mc1.19.2: 73 options available, 0 override(s) found
+[23:22:24] [main/INFO]: Applying Nashorn fix
+[23:22:24] [main/INFO]: Applied Forge config corruption patch
+[23:22:24] [main/INFO]: OptiFine was NOT detected.
+[23:22:24] [main/INFO]: OptiFabric was NOT detected.
+[23:22:24] [main/WARN]: Reference map 'dummmmmmy-forge-refmap.json' for dummmmmmy.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:22:24] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[23:22:24] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[23:22:24] [main/WARN]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
+[23:22:24] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
+[23:22:25] [main/INFO]: bre2el.fpsreducer.mixin.RenderSystemMixin will be applied.
+[23:22:25] [main/INFO]: bre2el.fpsreducer.mixin.WindowMixin will NOT be applied because OptiFine was NOT detected.
+[23:22:26] [main/WARN]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[23:22:26] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0-rc.4).
+[23:22:26] [main/WARN]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[23:22:29] [pool-3-thread-1/INFO]: ModernFix reached bootstrap stage (14.74 s after launch)
+[23:22:29] [pool-3-thread-1/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on everycomp-common.mixins.json:LootTableHackMixin::handler$bdm000$addSimpleFastECdrops exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[23:22:29] [pool-3-thread-1/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[23:22:29] [pool-3-thread-1/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[23:22:29] [pool-3-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[23:22:29] [pool-3-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[23:22:30] [pool-3-thread-1/INFO]: Vanilla bootstrap took 1058 milliseconds
+[23:22:30] [pool-3-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[23:22:30] [pool-3-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[23:22:32] [pool-3-thread-1/WARN]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[23:22:34] [Render thread/WARN]: Assets URL 'union:/C:/Users/igorh/Documents/Curseforge/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23357!/assets/.mcassetsroot' uses unexpected schema
+[23:22:34] [Render thread/WARN]: Assets URL 'union:/C:/Users/igorh/Documents/Curseforge/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23357!/data/.mcassetsroot' uses unexpected schema
+[23:22:34] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:22:35] [Render thread/INFO]: Setting user: Vyzon_775
+[23:22:35] [Render thread/INFO]: Bypassed Mojang DFU
+[23:22:35] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[23:22:35] [Render thread/INFO]: Loaded client.properties
